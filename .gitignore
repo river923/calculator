@@ -7,6 +7,9 @@
 # suggested that you use the "grails integrate-with --git" command
 # to generate your .gitignore file.
 
+#!
+!/gradle-wrapper.jar
+
 # web application files
 /web-app/WEB-INF/classes
 
